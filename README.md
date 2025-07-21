@@ -6,4 +6,4 @@ Dự án được hỗ trợ bởi:
 - **Trường Đại học Bách Khoa TP.HCM**
 - **Nhóm Nghiên cứu Smart Twin BKU**
 
-🙏 Xin cảm ơn sự đồng hành và tài trợ quý báu!
+🙏 Xin cảm ơn sự đồng hành và tài trợ quý báu! ❤️❤️❤️❤️❤️
