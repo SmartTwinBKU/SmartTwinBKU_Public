@@ -2,7 +2,7 @@
 
 Dự án được hỗ trợ bởi:
 
-- **Thầy Trà** – Giảng viên hướng dẫn
+- **Ths. KTS. Thầy Phạm Thanh Trà** – Giảng viên hướng dẫn
 - **Trường Đại học Bách Khoa TP.HCM**
 - **Nhóm Nghiên cứu Smart Twin BKU**
 
