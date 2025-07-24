@@ -14,9 +14,7 @@ Dự án được hỗ trợ bởi:
 </p>
 
 <h2 align="center">Smart Twin Team</h2>
-
 <p align="center"><em>
   "Digital Twin cho công trình thông minh, hiệu quả vượt trội".
 </em></p>
-
 ---
