@@ -13,11 +13,12 @@
 ## 2. Sao chép dự án
 
 Sử dụng Git để sao chép kho lưu trữ SmartTwin:
-
+<pre>
 ```bash
 git clone [URL_KHO_LƯU_TRỮ_CỦA_BẠN]
 cd smarttwin
 ```
+</pre>
 
 ## 3. Cài đặt phụ thuộc
 
