@@ -10,8 +10,7 @@ Dự án được hỗ trợ bởi:
 ---
 <p align="center">
   <!-- Dùng Markdown để hiển thị logo -->
-  <a href="#">
-    ![Logo](./public/logo.png)
+  <a href="https://ik.imagekit.io/ArchitectureQuarasal/Logo.png?updatedAt=1753385445024">
   </a>
 </p>
 
