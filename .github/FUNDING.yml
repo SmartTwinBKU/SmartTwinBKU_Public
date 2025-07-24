@@ -1,9 +1,12 @@
-## 🎓 Nhà tài trợ
-
-Dự án được hỗ trợ bởi:
-
-- **Thầy Trà** – Giảng viên hướng dẫn
-- **Trường Đại học Bách Khoa**, Khoa Xây Dựng
-- **Nhóm Nghiên cứu Smart Twin BKU**
-
-🙏 Xin cảm ơn sự đồng hành và tài trợ quý báu!
+github: [DuyetBKU]               # GitHub Sponsors username
+patreon: duyetcao               # Patreon username
+open_collective:                # Tên dự án trên Open Collective (nếu có)
+ko_fi: duyetcao                 # Ko-fi username
+tidelift:                       # Gói Tidelift (thường là tên gói npm, pypi...)
+community_bridge:               # Dự án trên CommunityBridge
+liberapay:                      # Username Liberapay
+issuehunt:                      # IssueHunt username
+otechie:                        # Otechie username (nếu có)
+custom:
+  - https://www.buymeacoffee.com/duyetcao
+  - https://duyetcao.dev/sponsor-me  # Thêm link tùy chỉnh khác nếu cần
