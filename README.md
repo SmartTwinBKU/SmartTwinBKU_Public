@@ -10,7 +10,21 @@ Dự án được hỗ trợ bởi:
 ---
 <p align="center">
   <!-- Dùng Markdown để hiển thị logo -->
-  <a href="https://ik.imagekit.io/ArchitectureQuarasal/Logo.png?updatedAt=1753385445024">
+  <img src="https://ik.imagekit.io/ArchitectureQuarasal/Logo.png?updatedAt=1753385445024" width="120" alt="Logo" />
+</p>
+
+<h1 align="center">Tên Dự Án</h1>
+
+<p align="center">
+  Mô tả ngắn gọn về dự án, công dụng hoặc slogan cool ngầu.
+</p>
+
+---
+
+## 🚀 Tính năng chính
+
+- Tính năng 1
+- Tính năng 2
   </a>
 </p>
 
