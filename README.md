@@ -10,7 +10,7 @@ Dự án được hỗ trợ bởi:
 ---
 <p align="center">
   <!-- Dùng Markdown để hiển thị logo -->
-  <img src="https://ik.imagekit.io/ArchitectureQuarasal/Logo.png?updatedAt=1753385445024" width="120" alt="Logo" />
+  <img src="https://ik.imagekit.io/ArchitectureQuarasal/Logo.png?updatedAt=1753385445024" style="max-width:100%; width:100%;" alt="Logo" />
 </p>
 
 <h1 align="center">Tên Dự Án</h1>
