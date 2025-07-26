@@ -1,3 +1,15 @@
+---
+<p align="center">
+  <!-- Dùng Markdown để hiển thị logo -->
+  <img src="https://ik.imagekit.io/ArchitectureQuarasal/Logo.png?updatedAt=1753385445024" style="max-width:100%; width:100%;" alt="Logo" />
+</p>
+
+<h2 align="center">Smart Twin Team</h2>
+<p align="center"><em>
+  "Digital Twin cho công trình thông minh, hiệu quả vượt trội".
+</em></p>
+
+---
 # SmartTwin Public License (STPL-P)
 
 Copyright © 2025 SmartTwin Organization
