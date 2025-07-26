@@ -1,5 +1,5 @@
-github: [DuyetBKU]               # GitHub Sponsors username
-patreon: duyetcao               # Patreon username
+# github: DuyetBKU               # GitHub Sponsors username
+patreon: SmartTwinBKU           # Patreon username
 open_collective:                # Tên dự án trên Open Collective (nếu có)
 ko_fi: duyetbku                 # Ko-fi username
 tidelift:                       # Gói Tidelift (thường là tên gói npm, pypi...)
@@ -9,5 +9,4 @@ issuehunt:                      # IssueHunt username
 otechie:                        # Otechie username (nếu có)
 custom:
   - https://www.buymeacoffee.com/duyetbku
-  - https://duyetcao.dev/sponsor-me
   - https://me.momo.vn/DxIETlt1CzUDtbCnTAf3I5
